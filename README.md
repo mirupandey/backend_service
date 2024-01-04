@@ -21,6 +21,8 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+* Test the above API services using Postman
+* The Postman token used in user authentication is used in the Product viewing purpose as a Bearer Token.
 
 ### Technologies Used
 * [Python](https://www.python.org/) This is used in the project for creating flask application for service run.
